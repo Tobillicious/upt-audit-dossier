@@ -127,3 +127,4 @@ To distinguish this relational metric from classical singular general relativity
 By grounding the gravitational field in Bounded Causal Relational Dynamics, we demonstrate that **a physical attempt to produce an infinite density cannot succeed**: the relational lattice enforces a curvature floor at $\ell_0$, resolving the singularity into a regular, unitary core.
 
 *Pono, Tika, me te Maramatanga o te Ao.*
+

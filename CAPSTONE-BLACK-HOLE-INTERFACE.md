@@ -88,3 +88,4 @@ theorem relational_spacetime_admits_no_information_loss
 By fulfilling these five criteria, the transition from qualitative philosophical assertion to verified mathematical physics will be complete. The audit repository stands ready to kernel-check the formalization the moment the author presents the underlying equations.
 
 *Pono tonu: te tūhononga o te tika me te māramatanga.*
+
