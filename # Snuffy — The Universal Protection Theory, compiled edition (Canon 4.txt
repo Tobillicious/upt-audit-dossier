@@ -5421,7 +5421,7 @@ This integration issues no global completion verdict or publication.
 15. E. Dennis, A. Kitaev, A. Landahl and J. Preskill, Topological quantum memory, J. Math. Phys. 43 (2002); P. Aliferis, D. Gottesman and J. Preskill, Quantum accuracy threshold for concatenated distance-3 codes, Quantum Inf. Comput. 6 (2006).
 16. A. G. Fowler, M. Mariantoni, J. M. Martinis and A. N. Cleland, Surface codes: towards practical large-scale quantum computation, Phys. Rev. A 86 (2012); Google Quantum AI, Quantum error correction below the surface code threshold, Nature (2024); S. Krinner et al., Engineering cryogenic setups for 100-qubit scale superconducting circuit systems, EPJ Quantum Technology 6 (2019). The complete source list of Section 22 is §22.5.
 17. L. de Moura and S. Ullrich, The Lean 4 theorem prover and programming language, CADE-28 (2021); The mathlib Community, The Lean mathematical library, CPP 2020.
-18. T. Croydon-McRae, *Snuffy — Canon Edition 4.1*, Zenodo (2026), https://doi.org/10.5281/zenodo.23631881, and *Given the Lattice: Proof a Superintelligence Aligns with All Living Things Under a Multidimensional Lattice* (Canon Edition 4.0), https://doi.org/10.5281/zenodo.23608443 — the published editions this edition succeeds; their arguments are incorporated in full here.
+18. T. Croydon-McRae, *Snuffy — Canon Edition 4.1*, Zenodo (2026), https://doi.org/10.5281/zenodo.23631881, and *Snuffy — Canon Edition 4.0*, https://doi.org/10.5281/zenodo.23608443 — the published editions this edition succeeds; their arguments are incorporated in full here.
 
 
 **Evidence status.** This master assembles three kinds of evidence, each by what it is:
