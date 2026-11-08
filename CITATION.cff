@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you cite this audit dossier or verification results, please cite as below."
+authors:
+  - family-names: McRae
+    given-names: Tobias
+    affiliation: Universal Protection Theory Research Direction
+title: "UPT Audit Dossier: Machine-Checked Lean 4 Audits, Entailment Proofs, and Formal Verification Receipts"
+version: 1.0.0
+date-released: 2026-11-08
+url: "https://github.com/Tobillicious/upt-audit-dossier"
+license: Open-Access
+keywords:
+  - "Lean 4"
+  - "Formal Verification"
+  - "Mathematical Logic"
+  - "Unitary Recurrence"
+  - "Entailment"
+  - "Decision Theory"
