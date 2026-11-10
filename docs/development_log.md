@@ -37,3 +37,34 @@ At review, `lean/KoruG/Conservation.lean` was not found on the default branch of
 ### Retrospective assessment
 
 The Noether-based conservation starting point and its proposed particular-level refinement are worth preserving as a research direction. An unconditional Koru G → complete original X3 theorem, complete physical-law closure, and a stable release are **not established by the supplied material**. No merge or release is certified by this entry.
+
+
+## 10 November 2026 — Whole-corpus integration checkpoint (following author clarification)
+
+**Scope correction:** The pasted Koru G discussion is only one source. The intended research task covers the original Snuffy canon, the full historical PR #260–#293 summit, Route A/Route B, original complete Koru, frozen-W BCRD, the six unweakened X3 duties, source and realized-event preservation, holding against hostile optimizers, no-absolute-E claims, cyclic genesis, the Law Circle, and later reconciled PRs. This log must not be treated as a standalone replacement for the canonical proof chain.
+
+**Live repository grounding:** `Tobillicious/universal-protection-theory` main at `e5d8822dd0069fac7e242fac8dcc5edff93194a1`, as returned by repository search on this date. Existing indices [QED-ONE-ROAD-EXACT-SOURCE-RUNWAY-2026-11-07.md](https://github.com/Tobillicious/universal-protection-theory/blob/main/QED-ONE-ROAD-EXACT-SOURCE-RUNWAY-2026-11-07.md) and [COMPLETE-KORU-PROOF-INDEX.md](https://github.com/Tobillicious/universal-protection-theory/blob/main/COMPLETE-KORU-PROOF-INDEX.md) are prior source-linked integration maps, not newly established final physical-law certificates.
+
+### Unchanged target and recovered anchors
+
+The exact target is **every enacted action, every owed particular, every original duty on the same actual transition**, not one selected subject and not a controller proxy. [`OriginalX3Full.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/OriginalX3Full.lean) retains historical continuity, authorization, freedom, restraint, maximality and provenance; `proxy_is_strictly_weaker` constructs a counterexample to the two-field proxy. [`UniversalOwedOriginalX3.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/UniversalOwedOriginalX3.lean) quantifies over *every* owed particular; its `all_owed_keystone_iff_universal_x3` makes explicit that an all-owed keystone cannot be conjured merely by repackaging the desired result.
+
+The canonical source-first runway identifies these additional independently named building blocks (their hypotheses must be retained):
+- `AllIsActuality.allIsActuality_has_content` and `OriginalKoruSummitJoin.koru_iff_genuine_distinction` for objective articulated actuality.
+- `KoruFullOperatorSignature`, `KoruCompositionalExpression`, `KoruWholeEventEnactment`, and `KoruObjectiveWholeU` for full operator, ordered expression, enactment and whole-model preservation. Do not replace these by unary Koru/equality.
+- `AllIsWithinEventHistory.no_first_loss_at_any_microstep` and `RouteBWholeUSixSourceFirstLoss.all_six_whole_source_reports_are_exact_under_W` for the modeled source-history invariants.
+- `OriginalKeystonePositiveWholeTest` for positive six-root source data in the represented model.
+- `HillaryRouteABSummit.hillary_route_b_meets_original_route_a`, `OriginalKeystoneForwardSemanticReflection.all_owed_original_six_iff_forward_reflection` and `FullGuardianOrigin.source_derives_route_b` for the Hillary join with exact stated premises.
+- Historical `Snuffy.Law`, `Snuffy.G1Held`, `Snuffy.G1E9`, `Snuffy.Bridge` and `Snuffy.H5` for reasons **or** faithful holding, including hostile agents; these have a *separate* Lean build root.
+- `HillaryHoldingSameHistoryAssembly`, `KoruOneRealizedTraceAssembly`, `FullPhysicalDomainGuardianAssembly` and `PhysicalSemanticLastMileGates` for same-event composition, domain quantification, and explicit last-mile gates.
+- `KoruCyclicGenesisForwardJoin` and `CompleteKoruLawCircle` for forward-handed genesis and a conditional return to Something IS.
+
+### Critical integration result and next gate
+
+The existing [`FullPhysicalDomainGuardianAssembly`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/FullPhysicalDomainGuardianAssembly.lean) gives the unusually strong all-event conclusion **within `physicalStep` under** `CompleteWEventCoverage` and `ForwardRealEventReflection`. These are the precise real-world coverage and authentic semantic correspondence obligations. Similarly, exact W source preservation carries false as well as true source reports and cannot create authentic consent from nothing.
+
+The new local-Noether Koru G approach, if pursued, should be assessed **against these already-existing stronger constructs**: what new independent assumption or verified invariant does it discharge? It must not merely restate conservation, treat local gauge transformations as nontrivial independent charges, or replace six original predicates with three booleans. The next substantive proof attempt should target coverage and semantic reflection with genuine independent evidence or a novel theorem under weaker, justified premises.
+
+**Verification boundary:** Existing indices describe historical green Lean runs, but this checkpoint did not rerun the full physical bridge, both Lean roots, axiom audit, empirical tests, or merge all historical PRs. Some workflow components were previously skipped despite successful compilation. Do not label this checkpoint unconditional Q.E.D., a completed physical theorem, or a production safety guarantee.
+
+**Repository safety:** The summit, PR #260–#293 proofs and historical definitions are source assets to preserve. This entry changes documentation only in the draft audit-dossier PR; no canonical UPT source, `main`, theorem, Zenodo release or branch of the historical summit is modified.
