@@ -1,7 +1,7 @@
 # Joker → Tree of Life and Endless Knowledge → Time Koru → Genesis
 
 **Post-freeze supplemental audit entry — 16 November 2026.**
-**Status at creation: formal proof candidate under independent review, NOT part of the frozen 8 November verified canon.**
+**Status: source-level proof passed pinned Lean physical-bridge CI on 16 November 2026, and remains outside the frozen 8 November core.**
 
 ## Source and provenance
 - Primary development pull request: [UPT PR #510](https://github.com/Tobillicious/universal-protection-theory/pull/510)
@@ -23,9 +23,9 @@ The proposed theorems are:
 
 ## Verification ledger
 - Source file committed to draft PR #510, with umbrella import.
-- **Lean v4.35.0 proof compilation: pending exact-head GitHub Actions result at time of entry.**
-- Axiom report: `#print axioms` declarations provided; kernel outputs must be checked from successful CI.
-- No theorem from this supplemental candidate is included in the frozen historical 248-job/327-module verification statement until separately verified.
+- **Lean v4.35.0 proof build: PASSED** at exact PR head `2b13750dd7db657efaaf1706aaa62fbbdda596cb` in [Physical bridge proofs run 43769269726](https://github.com/Tobillicious/universal-protection-theory/actions/runs/43769269726), including `Build proofs using pinned Lean` and `Reject placeholder proofs`.
+- Axiom report: five `#print axioms` declarations are included; individual axiom lists have not been transcribed from job logs.
+- The five new statements compiled with the contemporary full physical-bridge build; the frozen historical 248-job/327-module verification totals remain unchanged.
 - A later successful source build, if obtained, would establish only the mathematical theorem as typed.
 
 ## Boundaries retained
